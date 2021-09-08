@@ -1,0 +1,22 @@
+.container {
+    max-width: 70vw;
+    padding: 5vw 10vw;
+    margin: 3vw auto 6vw;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}  
+  
+.header {
+    display: flex;
+    align-items: center;
+}
+.header h1{
+    margin: auto 3vw;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.backToHome {
+    margin: 3vw 0 0;
+}
+  
